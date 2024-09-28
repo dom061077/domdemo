@@ -1,14 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Client": [
+    { "Id": 1, "Name": "Post 1" },
+    { "Id": 2, "Name": "Post 2" },
+    { "Id": 3, "Name": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "PurchaseOrder": [
+      {"Id": 1,
+      "Date": "28/09/2024" ,
+      "Status" "PENDIENTE",
+      "ClientId": 1,
+      "Total": 200000,
+      "Currency"_ "DOLLAR"}
+
   ],
-  "profile": {
-    "name": "typicode"
+  "PurchaseOrderDetail": [
+  {
+  "Id": 1 ,
+  "PurchaseOrderId": 1 ,
+  "ProductDesc":"jabón la mariposa" ,
+  "Quantity": 2 ,
+  "Price": 500
+
   }
+  ]
 }
