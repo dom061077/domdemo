@@ -2,7 +2,8 @@
   "Client": [
     { "Id": 1, "Name": "Post 1" },
     { "Id": 2, "Name": "Post 2" },
-    { "Id": 3, "Name": "Post 3" }
+    { "Id": 3, "Name": "Post 3" },
+    { "Id": 4, "Name": "Post 4" }
   ],
   "PurchaseOrder": [
       {"Id": 1,
