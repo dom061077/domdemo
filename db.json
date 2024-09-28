@@ -10,7 +10,7 @@
       "Status" "PENDIENTE",
       "ClientId": 1,
       "Total": 200000,
-      "Currency"_ "DOLLAR"}
+      "Currency": "DOLLAR"}
 
   ],
   "PurchaseOrderDetail": [
