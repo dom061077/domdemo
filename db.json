@@ -14,17 +14,17 @@
       "Currency": "DOLLAR"},
 
       {"Id": 2,
-      "Date": "2024-09-29" ,
+      "Date": "2023-09-29" ,
       "Status": "PENDIENTE",
       "ClientId": 1,
-      "Total": 200000,
+      "Total": 128131.35,
       "Currency": "DOLLAR"},
 
       {"Id": 3,
-      "Date": "2024-09-29" ,
+      "Date": "2024-01-29" ,
       "Status": "PENDIENTE",
       "ClientId": 1,
-      "Total": 200000,
+      "Total": 2500.60,
       "Currency": "DOLLAR"}    
 
   ],
