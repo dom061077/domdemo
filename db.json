@@ -11,7 +11,21 @@
       "Status": "PENDIENTE",
       "ClientId": 1,
       "Total": 200000,
-      "Currency": "DOLLAR"}
+      "Currency": "DOLLAR"},
+
+      {"Id": 2,
+      "Date": "2024-09-29" ,
+      "Status": "PENDIENTE",
+      "ClientId": 1,
+      "Total": 200000,
+      "Currency": "DOLLAR"},
+
+      {"Id": 3,
+      "Date": "2024-09-29" ,
+      "Status": "PENDIENTE",
+      "ClientId": 1,
+      "Total": 200000,
+      "Currency": "DOLLAR"}    
 
   ],
   "PurchaseOrderDetail": [
