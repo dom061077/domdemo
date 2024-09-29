@@ -7,7 +7,7 @@
   ],
   "PurchaseOrder": [
       {"Id": 1,
-      "Date": "2024-09-29T15:00:00Z" ,
+      "Date": "2024-09-29" ,
       "Status": "PENDIENTE",
       "ClientId": 1,
       "Total": 200000,
