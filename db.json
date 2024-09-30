@@ -12,16 +12,7 @@
       "ClientId": 1,
       "Total": 200000,
       "Currency": "DOLLAR",
-      "Detail" : [
-          {
-          "Id": 1 ,
-          "PurchaseOrderId": 1 ,
-          "ProductDesc":"jabón la mariposa" ,
-          "Quantity": 2 ,
-          "Price": 500
-        
-          }
-        ]
+      "Detail" : "[{"Id": 1 ,"PurchaseOrderId": 1 , "ProductDesc":"jabón la mariposa" , "Quantity": 2 ,"Price": 500 }]"
       },
 
       {"Id": 2,
@@ -30,16 +21,7 @@
       "ClientId": 1,
       "Total": 128131.35,
       "Currency": "DOLLAR",
-      "Detail" : [
-          {
-          "Id": 1 ,
-          "PurchaseOrderId": 1 ,
-          "ProductDesc":"jabón la mariposa" ,
-          "Quantity": 2 ,
-          "Price": 500
-        
-          }
-        ]        
+      "Detail" :"[{"Id": 1 ,"PurchaseOrderId": 1 , "ProductDesc":"jabón la mariposa" , "Quantity": 2 ,"Price": 500 }]"  
       
       },
 
@@ -49,16 +31,7 @@
       "ClientId": 1,
       "Total": 2500.60,
       "Currency": "DOLLAR",
-      "Detail" : [
-          {
-          "Id": 1 ,
-          "PurchaseOrderId": 1 ,
-          "ProductDesc":"jabón la mariposa" ,
-          "Quantity": 2 ,
-          "Price": 500
-        
-          }
-        ]        
+      "Detail" : "[{"Id": 1 ,"PurchaseOrderId": 1 , "ProductDesc":"jabón la mariposa" , "Quantity": 2 ,"Price": 500 }]"       
       
       }    
 
