@@ -11,21 +11,56 @@
       "Status": "PENDIENTE",
       "ClientId": 1,
       "Total": 200000,
-      "Currency": "DOLLAR"},
+      "Currency": "DOLLAR",
+      "Detail" : [
+          {
+          "Id": 1 ,
+          "PurchaseOrderId": 1 ,
+          "ProductDesc":"jabón la mariposa" ,
+          "Quantity": 2 ,
+          "Price": 500
+        
+          }
+        ]
+      },
 
       {"Id": 2,
       "Date": "09/29/2024 12:00:00 AM" ,
       "Status": "PENDIENTE",
       "ClientId": 1,
       "Total": 128131.35,
-      "Currency": "DOLLAR"},
+      "Currency": "DOLLAR",
+      "Detail" : [
+          {
+          "Id": 1 ,
+          "PurchaseOrderId": 1 ,
+          "ProductDesc":"jabón la mariposa" ,
+          "Quantity": 2 ,
+          "Price": 500
+        
+          }
+        ]        
+      
+      },
 
       {"Id": 3,
       "Date": "01/29/2024 12:00:00 AM" ,
       "Status": "PENDIENTE",
       "ClientId": 1,
       "Total": 2500.60,
-      "Currency": "DOLLAR"}    
+      "Currency": "DOLLAR",
+      "Detail" : [
+          {
+          "Id": 1 ,
+          "PurchaseOrderId": 1 ,
+          "ProductDesc":"jabón la mariposa" ,
+          "Quantity": 2 ,
+          "Price": 500
+        
+          }
+        ]        
+      
+      }    
 
   ],
   "PurchaseOrderDetail": [
