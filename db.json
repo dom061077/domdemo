@@ -40,7 +40,7 @@
       "Status": "PAGADA",
       "ClientId": 1,
       "Total": 7000,
-      "Currency": "EUROS",
+      "Currency": "EURO",
       "Detail": "[{\"Id\": 1 ,\"PurchaseOrderId\": 1 , \"ProductDesc\":\"jabón la mariposa\" , \"Quantity\": 2 ,\"Price\": 500 },{\"Id\": 2 ,\"PurchaseOrderId\": 1 , \"ProductDesc\":\"coca cola x 3 lt.\" , \"Quantity\": 3 ,\"Price\": 2000 }]"
     },
     {
