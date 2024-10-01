@@ -51,24 +51,6 @@
       "Total": 7000,
       "Currency": "DOLLAR",
       "Detail": "[{\"Id\": 1 ,\"PurchaseOrderId\": 1 , \"ProductDesc\":\"jabón la mariposa\" , \"Quantity\": 2 ,\"Price\": 500 },{\"Id\": 2 ,\"PurchaseOrderId\": 1 , \"ProductDesc\":\"coca cola x 3 lt.\" , \"Quantity\": 3 ,\"Price\": 2000 }]"
-    },
-    {
-      "Id": 3,
-      "Date": "05/10/2019 12:00:00 AM",
-      "Status": "ANULADA",
-      "ClientId": 3,
-      "Total": 7000,
-      "Currency": "DOLLAR",
-      "Detail": "[{\"Id\": 1 ,\"PurchaseOrderId\": 1 , \"ProductDesc\":\"jabón la mariposa\" , \"Quantity\": 2 ,\"Price\": 500 },{\"Id\": 2 ,\"PurchaseOrderId\": 1 , \"ProductDesc\":\"coca cola x 3 lt.\" , \"Quantity\": 3 ,\"Price\": 2000 }]"
-    },
-    {
-      "Id": 4,
-      "Date": "02/07/2015 12:00:00 AM",
-      "Status": "PENDIENTE",
-      "ClientId": 4,
-      "Total": 7000,
-      "Currency": "DOLLAR",
-      "Detail": "[{\"Id\": 1 ,\"PurchaseOrderId\": 1 , \"ProductDesc\":\"jabón la mariposa\" , \"Quantity\": 2 ,\"Price\": 500 },{\"Id\": 2 ,\"PurchaseOrderId\": 1 , \"ProductDesc\":\"coca cola x 3 lt.\" , \"Quantity\": 3 ,\"Price\": 2000 }]"
     }
   
 
